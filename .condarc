@@ -1,0 +1,3 @@
+
+auto_activate_base: false
+notify_outdated_conda: false
